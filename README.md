@@ -1,7 +1,6 @@
 # # Hi there 👋, I'm Amitha Akepati
 
-💻 I’m a Data Analyst and Machine Learning Enthusiast  
-🌱 Currently learning LLMs, Agentic AI, and Cloud (AWS, Azure)  
+💻 I’m a Data Scientist and Machine Learning Enthusiast   
 🚀 I’m working on AI-powered applications and data-driven systems  
 
 ---
