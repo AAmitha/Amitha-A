@@ -1,4 +1,4 @@
-# # Hi there 👋, I'm Amitha
+# Hi there 👋, I'm Amitha
 
 💻 I’m a Data Scientist  
 🚀 I’m working on AI-powered applications and data-driven systems  
